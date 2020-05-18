@@ -1,0 +1,24 @@
+.settings__setting {
+  margin-bottom: 25px;
+}
+
+.settings__icon i,
+.settings__title {
+  font-size: 25px;
+}
+
+.settings__title {
+  margin-left: 12px;
+}
+
+.settings.settings__2 {
+  margin-top: 30px;
+  padding-top: 30px;
+  border-top: 1px solid seashell;
+}
+
+.header__back-btn {
+  font-size: 30px;
+  font-weight: 900;
+  margin-right: 14px;
+}
